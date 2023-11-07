@@ -1,0 +1,4 @@
+#.gitignore
+
+privada/ #ignoramos todo lo que contenga el directorio "privado"
+privado.txt #ignoramos el fichero "privado.txt"
